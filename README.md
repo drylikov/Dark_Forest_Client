@@ -30,7 +30,7 @@ To connecting to the mainnet client, simply run `yarn start:prod`. When asked yo
 
 ### Plugin development
 
-You can develop plugins for Dark Forest either inside this game client repository, or externally using something like https://github.com/Bind/my-first-plugin. In either case, you'll want to use the [`df-plugin-dev-server`](https://github.com/drylikov/My_first_plugin).
+You can develop plugins for Dark Forest either inside this game client repository, or externally using something like https://github.com/drylikov/My_first_plugin. In either case, you'll want to use the [`df-plugin-dev-server`](https://github.com/drylikov/My_first_plugin).
 
 You can install it as a global command, using:
 
